@@ -30,6 +30,11 @@ Inside Notepad++ :
 </br>
 <img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura3.JPG"  align="center">
 
+Dark theme:
+
+![image](https://github.com/user-attachments/assets/b3756a50-8ce0-45f9-ab7f-ed4481180068)
+
+
 </br>
 Then, just copy it inside gsheet Formula field.
 
@@ -37,6 +42,7 @@ Then, just copy it inside gsheet Formula field.
 # Installation
 
 -Download <a href="https://raw.githubusercontent.com/adegard/gsheet_notepad-plus-plus/main/formula_gsheet_notepad.xml" rel="nofollow">formula_gsheet_notepad.xml</a> (right click Save as...)</br>
+-Download Dark <a href="https://github.com/Max-Makhrov/gsheet_notepad-plus-plus/blob/main/formula_gsheet_notepad_dark.xml" rel="nofollow">formula_gsheet_notepad.xml</a> (right click Save as...)</br>
 
 *Import method:*</br>
 -Go to Language/User define langage/Define language..., import it & restart.</br>
